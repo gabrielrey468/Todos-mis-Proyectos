@@ -1,0 +1,2 @@
+<hr>
+<H1>PIE DE PAGINA</H1>
